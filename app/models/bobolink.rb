@@ -1,0 +1,2 @@
+class Bobolink < ApplicationRecord
+end
