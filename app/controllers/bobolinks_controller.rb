@@ -1,0 +1,2 @@
+class BobolinksController < ApplicationController
+end
